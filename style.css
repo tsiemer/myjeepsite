@@ -1,0 +1,157 @@
+.navbar{
+	font-size:12px;
+	background-color:black;
+	font-family: 'Roboto', sans-serif;
+	width:100%;
+}
+ul li a:hover{
+	background-color:grey;
+	color:white;
+
+}
+li a{
+	color:white;
+	font-size:12px;
+	font-weight:bold;
+
+}
+.drop-down{
+	background-color:grey;
+}
+a h1{
+	color:white;
+	font-weight: bold;
+}
+i{
+	color:grey;
+	width:10px;
+	height:10px;
+}
+.dropdown-menu{
+	background-color:black;
+}
+.d-block,img-fluid{
+width:100%;
+	height:100%;
+}
+
+.cards{
+	display:flex;
+	background-color:#D1D1D1;
+	padding:10px;
+	padding-bottom:10px;
+}
+.card{
+	flex:1;
+	padding:20px;
+
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+
+.card-1{
+	width:291px;
+	height:215px;
+	justify-content:space-around;
+}
+.card-2{
+	width:291px;
+	height:215px;
+}
+.card-3{
+	width:291px;
+	height:215px;
+}
+.card-4{
+	width:291px;
+	height:215px;
+}
+.block-white{
+	background-color:white;
+}
+.learn-more{
+	width:291px;
+	height:27px;
+}
+.white-space{
+	width:100%;
+
+}
+.grey-chunk{
+	width:100%;
+}
+.header-in-cars{
+	text-align:center;
+	font-weight:bold;
+	font-size:25px;
+	padding-top:25px;
+}
+.cars{
+	display:flex;
+	flex-wrap:wrap;
+	text-align:center;
+	padding-bottom:25px;
+}
+i{
+	font-size:9px;
+}
+a{
+	color:black;
+}
+
+.car{
+	flex:1;
+	flex-direction:row;
+	width:300px;
+	height:140px;
+	color:black;
+	text-align:center;
+}
+.link{
+	color:#BFBFBF;
+	alignment-baseline:space-around;
+	line-height:25px;
+}
+.links{
+	color:white;
+	line-height:29px;
+	font-weight:bold;
+	text-align:center;
+}
+.grey-area{
+	height:120px;
+	background-color:#212121;
+	color:tan;
+	text-align:center;
+}
+.black-end{
+	background-color:black;
+	display:flex;
+	flex-wrap:wrap;
+}
+.btn{
+	background-color:#FFBA00;
+	border-color:#FFBA00;
+	color:black;
+	align-self:flex-end;
+}
+.vehicles{
+	color:white;
+	height:25%;
+	justify-content:space-around;
+	margin:55px;
+	margin-bottom:80px;
+	font-size:12px;
+}
+.second-set{
+	color:white;
+	height:25%;
+	justify-content:space-around;
+	margin:55px;
+	font-size:12px;
+}
+.third-set{
+	padding-left:40%;
+	margin:40px;
+	font-size:12px;
+}
